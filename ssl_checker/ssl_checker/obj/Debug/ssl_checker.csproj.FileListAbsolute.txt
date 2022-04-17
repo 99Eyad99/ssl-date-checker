@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ssl_checker\ssl_checker\bin\Debug\ssl_checker.exe.config
+C:\Users\user\source\repos\ssl_checker\ssl_checker\bin\Debug\ssl_checker.exe
+C:\Users\user\source\repos\ssl_checker\ssl_checker\bin\Debug\ssl_checker.pdb
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.Form1.resources
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.Properties.Resources.resources
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.exe
+C:\Users\user\source\repos\ssl_checker\ssl_checker\obj\Debug\ssl_checker.pdb
